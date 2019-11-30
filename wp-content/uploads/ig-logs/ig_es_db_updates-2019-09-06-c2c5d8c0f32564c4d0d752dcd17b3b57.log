@@ -1,0 +1,8 @@
+2019-09-06T09:03:27+00:00 INFO --- Finished Task - ig_es_update_4113_create_files 
+2019-09-06T09:03:27+00:00 INFO [Processed] ig_es_update_4113_create_files
+2019-09-06T09:03:27+00:00 INFO [Processing] ig_es_update_4113_db_version
+2019-09-06T09:03:27+00:00 INFO --- Running Task - ig_es_update_4113_db_version
+2019-09-06T09:03:27+00:00 INFO --- Finished Task - ig_es_update_4113_db_version 
+2019-09-06T09:03:27+00:00 INFO [Processed] ig_es_update_4113_db_version
+2019-09-06T09:37:37+00:00 INFO Needs DB Update?
+2019-09-06T09:37:37+00:00 INFO Current DB Version: 4.1.13
